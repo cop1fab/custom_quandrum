@@ -1,0 +1,173 @@
+/* Button */
+.wp-editor-wrap div div .insert-media{
+	color: black !important;
+	font-weight:300 !important;
+}
+
+/* Button */
+.wp-editor-wrap div .insert-media{
+	font-weight:300 !important;
+}
+
+
+.page-id-3768 .entry-title {
+display: none;
+}
+
+.entry-footer .edit-link a{
+	display: none!important;
+}
+
+#popular-members {
+	display:none;
+}
+
+#edited-personal-li{
+	display: none!important;
+}
+
+#started-personal-li {
+    display: none!important;
+}
+
+/* Toggle open */
+#diary-parent .toggle-open{
+	display: none;
+}
+
+.bp-diarys-theme-cera .directory-title a{
+	display: none;
+}
+
+.bp-diarys-theme-cera .directory-title .breadcrumb-current{
+	display: none;
+}
+
+.bp-diarys-theme-cera .directory-title .directory-breadcrumb-separator{
+	display: none;
+}
+
+#diarys-filter-meta{
+	display: none;
+}
+
+#diarys-filter-section-search form{
+	display: none;
+}
+
+#tags-list li {
+    display: none;
+}
+
+#popular-friends {
+    display: none;
+}
+
+#buddypress .bp-diarys-theme-cera h2{
+	display: none;
+}
+
+
+/* Link */
+#bp_diarys_mydiarys_started{
+	display: none!important;
+}
+
+
+/* Link */
+#bp_diarys_mydiarys_edited {
+	display: none;
+}
+
+#custom_header span span span{
+	margin-top: -5px;
+}
+
+/* Span Tag */
+.wp-editor-wrap .insert-media span{
+	padding-right:1px;
+	color: white;
+}
+
+
+#articles-dir-list div div .insert-media{
+		padding-bottom:40px!important;
+		padding-top: -20px!important;
+		background-color: black!important;
+	}
+
+.bp-entriess-theme-cera .directory-title .directory-breadcrumb-separator{
+	display: none;
+}
+
+.bp-entriess-theme-cera .directory-title .breadcrumb-current {
+    display: none;
+}
+
+#entries-title{
+	background-color: white!important;
+}
+
+#entries_content-html{
+	display: none;
+}
+
+/* Post Title */
+.hentry .entry-header h1{
+	display: none;
+}
+
+
+/* Span Tag */
+.yoast-breadcrumb span span span{
+	margin-top: -4px !important;
+}
+/* Switch editor */
+.col-profile-edit-fields fieldset .wp-switch-editor{
+	display: none;
+}
+
+/* User media */
+#user-media{
+	display: none!important;
+}
+
+#pmpro_account_loggedin{
+	display: none;
+}
+
+#password_current{
+	background-color: white;
+}
+
+/* Input */
+.pmpro_change_password-fields .pmpro_change_password-field input[type=password]{
+	background-color: white;
+}
+
+#mec_book_form_tickets_container4100 div input[type=number]{
+	width: 280px;
+}
+
+.login .message {
+    background-color: #1F193C;
+}
+/* Input */
+#gform_1 .name_first input[type=text]{
+	background-color: white;
+}
+
+/* Input */
+#gform_1 .name_last input[type=text]{
+	background-color: white;
+}
+
+/* Input */
+#gform_1 .field_description_below .ginput_container_email input[type=text]{
+	background-color: white;
+}
+
+/* Text Area */
+#gform_1 .field_description_below textarea{
+	background-color: white;
+}
